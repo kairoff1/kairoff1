@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kairoff1/kairoff1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
   Ola sou Nathalia Kairoff 
   Tenho 17 anos 
   Atualmente nao estou trabalhando,mas meu objetivo de vida e me formar na area da psicologia 
